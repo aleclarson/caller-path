@@ -4,6 +4,8 @@
 
 **Important:** You have to use `'use strict';` in your code for this module to work correctly, or make sure the module is an ESM module, which is implicitly strict.
 
+Fork that includes https://github.com/sindresorhus/caller-path/pull/9
+
 ## Install
 
 ```
